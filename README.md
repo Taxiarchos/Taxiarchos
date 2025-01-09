@@ -1,4 +1,7 @@
 ## Hi there 👋
+To pursue my goals in Mathematics through coding, I created this GitHub account
+Where I will share my codes about Cryptography, Artificial Intelligence, Analysis
+in both Continuous and Discrete Mathematics and much more!
 
 <!--
 **Taxiarchos/Taxiarchos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
