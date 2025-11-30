@@ -1,7 +1,6 @@
 ## Hi there 👋
 To pursue my goals in Mathematics through coding, I created this GitHub account
-Where I will share my codes about Cryptography, Artificial Intelligence, Analysis
-in both Continuous and Discrete Mathematics and much more!
+where I will share my codes about Cryptography, Discrete Mathematics, Numerical Analysis, Function Analysis, Algebra and Geometry, Topology, Physical and Mathematical Simulations and Much More!
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Taxiarchos&show_icons=true)
 </br>
